@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my_whims</string>
+    <string name="email">correo:</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Entrar">Entrar</string>
+    <string name="registrarse">Registrarse Ahora</string>
+    <string name="title_activity_deseo">DeseoActivity</string>
+</resources>
